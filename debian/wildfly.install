@@ -9,3 +9,4 @@ LICENSE.txt  opt/wildfly/
 README.txt  opt/wildfly/
 copyright.txt  opt/wildfly/
 jboss-modules.jar  opt/wildfly/
+debian/source/launch.sh  opt/wildfly/bin/

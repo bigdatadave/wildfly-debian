@@ -4,3 +4,7 @@ set -e
 if which deluser >/dev/null 2>&1; then
         deluser --quiet wildfly > /dev/null || true
 fi
+
+#DEBHELPER#
+
+exit 0
